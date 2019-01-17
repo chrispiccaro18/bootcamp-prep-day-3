@@ -1,2 +1,2 @@
 # bootcamp-prep-day-3
-JavaScript
+JavaScript prep day 3
